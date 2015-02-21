@@ -1,4 +1,6 @@
 div {
 	margin: auto;
 	width: 100%;
+	color: white;
+	background-color: gray;
 }
